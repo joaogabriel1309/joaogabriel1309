@@ -1,7 +1,7 @@
 Olá, eu sou o João 👋👋
 
 - 🔭 Trabalho com back-end
-- 🌱 Atualmente Estudando PHP
+- 🌱 Atualmente Estudando Java
 
 <div align="center">
   <a href="https://github.com/joaogabriel1309">
