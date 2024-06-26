@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/joão-gabriel-9063b5250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-gabriel-9063b5250" height="30" width="40" /></a>
 <a href="https://discord.gg/#3044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3044" height="30" width="40" /></a>
 </p>
-<h3 align="left">Idiomas e Ferramentas:</h3>
+<h3 align="left">Skills:</h3>
 <p align="esquerda"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
