@@ -1,7 +1,7 @@
 ## Profile
 
 - 🏗️ **Architecting** resilient systems using **Clean Architecture** and **DDD**.
-- 🚀 **Building** scalable backend solutions with **Java (Spring Boot)** and **PHP**.
+- 🚀 **Building** scalable backend solutions with **Java (Spring Boot)** and **PHP** and **Node**.
 - 📱 **Delivering** high-performance mobile experiences with **Flutter**.
 - ⚙️ **Optimizing** development lifecycles with **Docker** and **CI/CD** pipelines.
 
@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-**Languages & Frameworks:** `Java` `Spring Boot` `Dart` `Flutter` `PHP` `C#` `Angular` `TypeScript`
+**Languages & Frameworks:** `Java` `Spring Boot` `Dart` `Flutter` `PHP` `C#` `Angular` `TypeScript` `JavaScript` `Node js` `Nest js`
 **Database & Infra:** `PostgreSQL` `MySQL` `Redis` `Docker` `Firebase`
 
 ---
